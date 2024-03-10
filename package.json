@@ -1,21 +1,26 @@
 {
-  "homepage": "https://github.com/SNAPROCKER13/snapMusicsAppJSONServer#readme",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "json-serve": "^0.1.0"
-  },
-  "name": "data",
+  "name": "snapmusicsappjsonserver",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch DataMusics.json",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SNAPROCKER13/snapMusicsAppJSONServer.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "json-server": "^1.0.0-alpha.23"
+  "bugs": {
+    "url": "https://github.com/SNAPROCKER13/snapMusicsAppJSONServer/issues"
   },
-  "description": ""
+  "homepage": "https://github.com/SNAPROCKER13/snapMusicsAppJSONServer#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.4"
+  }
 }
