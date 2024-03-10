@@ -2,8 +2,7 @@
   "homepage": "https://github.com/SNAPROCKER13/snapMusicsAppJSONServer.git",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-serve": "^0.1.0",
-    "json-server": "^1.0.0-alpha.23"
+    "json-serve": "^0.1.0"
   },
   "name": "data",
   "version": "1.0.0",
@@ -15,5 +14,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  },
   "description": ""
 }
