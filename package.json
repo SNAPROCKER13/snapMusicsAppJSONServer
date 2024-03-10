@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/SNAPROCKER13/snapMusicsAppJSONServer.git",
+  "homepage": "https://github.com/SNAPROCKER13/snapMusicsAppJSONServer#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0"
