@@ -1,6 +1,19 @@
 {
-  "homepage": "https://github.com/SNAPROCKER13/AllSnapMusics#readme",
+  "homepage": "https://github.com/SNAPROCKER13/snapMusicsAppJSONServer#readme",
   "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
     "json-server": "^1.0.0-alpha.23"
-  }
+  },
+  "name": "data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
