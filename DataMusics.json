@@ -4,40 +4,48 @@
             "id": 1,
             "title": "รักแอบๆ",
             "artist": "SNAPROCKER",
-            "art_work" : "" ,
-            "file_music" : "",
+            "art_work" : "../Assets/image/1.jpg" ,
+            "file_music" : "../Assets/songs/lovesecret.mp3",
             "faverite" : false
         },
         {
             "id": 2,
             "title": "อยากลืมแต่ลืมไม่ลง",
             "artist": "SNAPROCKER",
-            "art_work" : "" ,
-            "file_music" : "",
+            "art_work" : "../Assets/image/2.jpg" ,
+            "file_music" : "../Assets/songs/forget.mp3",
             "faverite" : false
         },
         {
             "id": 3,
-            "title": "กอดก่อนเธอ",
+            "title": "อีกหน่อย",
             "artist": "SNAPROCKER",
-            "art_work" : "" ,
-            "file_music" : "",
+            "art_work" : "../Assets/image/3.jpg" ,
+            "file_music" : "../Assets/songs/again.mp3",
             "faverite" : false
         },
         {
             "id": 4,
             "title": "อาจจะดูโง่ๆ",
             "artist": "SNAPROCKER",
-            "art_work" : "" ,
-            "file_music" : "",
+            "art_work" : "../Assets/image/4.jpg" ,
+            "file_music" : "../Assets/songs/fool.mp3",
             "faverite" : false
         },
         {
             "id": 5,
-            "title": "ไม่ได้เป็นคนเจ้าชู้ (ฮู้ว ฮูว)",
+            "title": "เหตุผลของเธอ",
             "artist": "SNAPROCKER",
-            "art_work" : "" ,
-            "file_music" : "",
+            "art_work" : "../Assets/image/5.jpg" ,
+            "file_music" : "../Assets/songs/reason.mp3",
+            "faverite" : false
+        },
+        {
+            "id": 6,
+            "title": "สมองเข้าใจ แต่ใจไม่ฟัง",
+            "artist": "SNAPROCKER",
+            "art_work" : "../Assets/image/6.jpg" ,
+            "file_music" : "../Assets/songs/brain.mp3",
             "faverite" : false
         }
     ]
