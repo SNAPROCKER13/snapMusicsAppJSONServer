@@ -4,48 +4,48 @@
             "id": 1,
             "title": "รักแอบๆ",
             "artist": "SNAPROCKER",
-            "art_work" : "../Assets/image/1.jpg" ,
-            "file_music" : "../Assets/songs/lovesecret.mp3",
+            "art_work" : "oneImage" ,
+            "file_music" : "lovesecret",
             "faverite" : false
         },
         {
             "id": 2,
             "title": "อยากลืมแต่ลืมไม่ลง",
             "artist": "SNAPROCKER",
-            "art_work" : "../Assets/image/2.jpg" ,
-            "file_music" : "../Assets/songs/forget.mp3",
+            "art_work" : "twoImage" ,
+            "file_music" : "forget",
             "faverite" : false
         },
         {
             "id": 3,
             "title": "อีกหน่อย",
             "artist": "SNAPROCKER",
-            "art_work" : "../Assets/image/3.jpg" ,
-            "file_music" : "../Assets/songs/again.mp3",
+            "art_work" : "theeImage" ,
+            "file_music" : "again",
             "faverite" : false
         },
         {
             "id": 4,
             "title": "อาจจะดูโง่ๆ",
             "artist": "SNAPROCKER",
-            "art_work" : "../Assets/image/4.jpg" ,
-            "file_music" : "../Assets/songs/fool.mp3",
+            "art_work" : "fourImage" ,
+            "file_music" : "fool",
             "faverite" : false
         },
         {
             "id": 5,
             "title": "เหตุผลของเธอ",
             "artist": "SNAPROCKER",
-            "art_work" : "../Assets/image/5.jpg" ,
-            "file_music" : "../Assets/songs/reason.mp3",
+            "art_work" : "fiveImage" ,
+            "file_music" : "reason",
             "faverite" : false
         },
         {
             "id": 6,
             "title": "สมองเข้าใจ แต่ใจไม่ฟัง",
             "artist": "SNAPROCKER",
-            "art_work" : "../Assets/image/6.jpg" ,
-            "file_music" : "../Assets/songs/brain.mp3",
+            "art_work" : "sixImage" ,
+            "file_music" : "brain",
             "faverite" : false
         }
     ]
